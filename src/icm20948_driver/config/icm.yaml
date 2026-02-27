@@ -1,0 +1,9 @@
+  icm20948_node:
+    ros__parameters:
+      fusion_gain: 0.5
+      acceleration_rejection: 10.0
+      magnetic_rejection: 10.0
+      recovery_trigger_period: 1
+      hardIronOffset: [0., 0., 0.]
+      softIronMatrix: [1., 0., 0., 0., 1., 0., 0., 0., 1.]
+
