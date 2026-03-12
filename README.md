@@ -5,6 +5,8 @@
 ### Camera node
 https://index.ros.org/r/usb_cam/
 
+https://github.com/ros-drivers/usb_cam (plus complet)
+
 ### Motors node
 
 See [voiture2a_motors_driver](./src/voiture2a_motors_driver/README.md) package
